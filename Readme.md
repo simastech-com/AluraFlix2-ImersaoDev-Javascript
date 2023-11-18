@@ -1,4 +1,4 @@
-## AluraFlix
+## AluraFlix 2
 
 <img src="https://github.com/simastech-com/AluraFlix2-ImersaoDev-Javascript/blob/main/img/splash.png" width="600">
 
