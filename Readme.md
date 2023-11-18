@@ -1,6 +1,6 @@
 ## AluraFlix
 
-<img src="https://github.com/simastech-com/AluraFlix-ImersaoDev-Javascript/blob/main/img/splash.png" width="600">
+<img src="https://github.com/simastech-com/AluraFlix2-ImersaoDev-Javascript/blob/main/img/splash.png" width="600">
 
 Projeto desenvolvido na imersão JavaScript da Alura, realizada entre os dias 13/11/2023 e 17/11/2023. Trata-se de uma galeria de filmes. Este projeto foi desenvolvido no quarto dia da imersão (16/11/2023). Embora seja uma continuação do projeto desenvolvido no terceiro dia, optou-se por não colocá-lo em um segundo branch para facilitar a visualização.
 
@@ -30,5 +30,5 @@ As melhorias são itens incluídos no projeto e que não foram solicitados nas a
 </ul>
 
 # Visualização
-Para visualizar e interagir com  página, acesse este link: https://simastech-com.github.io/AluraFlix-ImersaoDev-Javascript/
+Para visualizar e interagir com  página, acesse este link: https://simastech-com.github.io/AluraFlix2-ImersaoDev-Javascript/
 
