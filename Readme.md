@@ -15,9 +15,9 @@ Os desafios foram atividades deixadas ao fim da aula para serem resolvidas.
 <ul>
     <li><b>Verificar se está adicionando uma imagem:</b> São permitidos apenas links que terminem em .jpg, .jpeg, .png, .bmp, .gif, .svg e .webp. [Realizado]</li>
     <li><b>Ao clicar no poster, abrir link do trailer do filme:</b> [Realizado]</li>
-    <li><b>Armazenar todos os filmes adicionados em uma lista/array e percorrê-la sempre que desejar imprimir ou remover um filme :</b> [Realizado]</li>
-    <li><b>Adicionar não apenas a imagem do filme, mas também o nome por meio de outro input :</b> [Realizado]</li>
-    <li><b>Adicionar botão para remover imagem :</b> [Realizado]</li>
+    <li><b>Armazenar todos os filmes adicionados em uma lista/array e percorrê-la sempre que desejar imprimir ou remover um filme:</b> [Realizado]</li>
+    <li><b>Adicionar não apenas a imagem do filme, mas também o nome por meio de outro input:</b> [Realizado]</li>
+    <li><b>Adicionar botão para remover imagem:</b> [Realizado]</li>
 </ul>
 
 # Melhorias
